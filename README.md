@@ -1,4 +1,4 @@
-## Vision-based Fight Detection From Surveillance Cameras
+# Vision-based Fight Detection From Surveillance Cameras
 
 A new fight dataset is shared through this repository. This dataset is benefited for developing a fight detection system which is aimed to use in surveillance cameras in public areas such as streets, underground stations and more. The details of the implementation and experiments are included in our paper "Vision-based Fight Detection From Surveillance Cameras" which will be presented at IPTA 2019 conference. The project is developed based on the CNN + LSTM action recognition systems and is improved using a re-trained Xception CNN, Bi-LSTM and self-attention layer.
 
