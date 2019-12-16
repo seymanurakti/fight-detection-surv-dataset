@@ -1,6 +1,6 @@
 # Vision-based Fight Detection From Surveillance Cameras
 
-A new fight dataset is shared through this repository. This dataset is benefited for developing a fight detection system which is aimed to use in surveillance cameras in public areas such as streets, underground stations and more. The details of the implementation and experiments are included in our paper "Vision-based Fight Detection From Surveillance Cameras" which will be presented at IPTA 2019 conference. The project is developed based on the CNN + LSTM action recognition systems and is improved using a re-trained Xception CNN, Bi-LSTM and self-attention layer.
+A new fight dataset is shared through this repository. This dataset is benefited for developing a fight detection system which is aimed to use in surveillance cameras in public areas such as streets, underground stations and more. The details of the implementation and experiments are included in our paper "Vision-based Fight Detection From Surveillance Cameras" which is presented at IPTA 2019 conference. The project is developed based on the CNN + LSTM action recognition systems and is improved using a re-trained Xception CNN, Bi-LSTM and self-attention layer.
 
 ## System Design
 
@@ -20,7 +20,7 @@ The dataset is collected from the Youtube videos that contains fight instances i
 
 Besides, since the task is detecting fights through surveillance cameras, the videos that have no background motion are preferred as samples. Also, various fight scenarios such as hitting with an object, kicking, fisting, wrestling are included. The environment in the samples are also varies such as cafe, street, bus, and more. 
 
-## Citation
+## Citation (Please cite this paper if you use the dataset)
 
-The reference information will be shared after the paper is published in conference proceedings.
+Ş. Aktı, G.A. Tataroğlu, H.K. Ekenel, “Vision-based Fight Detection from Surveillance Cameras”, IEEE/EURASIP 9th International Conference on Image Processing Theory, Tools and Applications, Istanbul, Turkey, November 2019.
 
