@@ -18,7 +18,7 @@ The dataset is collected from the Youtube videos that contains fight instances i
 
 ![sample-frames](https://i.ibb.co/BjMPGCS/Fig3.png)
 
-Besides, since the task is detecting fights through surveillance cameras, the videos that have no background motion are preferred as samples. Also, various fight scenarios such as hitting with an object, kicking, fisting, wrestling are included. The environment in the samples are also varies such as cafe, street, bus, and more. 
+Besides, since the task is detecting fights through surveillance cameras, the videos that have no background motion are preferred as samples. Also, various fight scenarios such as hitting with an object, kicking, fisting, wrestling are included. The environment in the samples also varies such as cafe, street, bus, and more. 
 
 ## Citation (Please cite this paper if you use the dataset)
 
